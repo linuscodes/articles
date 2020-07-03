@@ -7,3 +7,4 @@ Searching for your next article to read? Check the links below to maybe find som
 ## UI/UX Design
 
 * [47 Key Lessons for UI & UX Designers](https://link.medium.com/v0bprhSfP7) *IG Story on 07/03/20*
+* [Error Screens and Messages: UX Design Practices](https://blog.tubikstudio.com/error-screens-and-messages/)
